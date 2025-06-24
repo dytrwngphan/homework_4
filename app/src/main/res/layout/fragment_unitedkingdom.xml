@@ -22,7 +22,7 @@
             android:id="@+id/tvUKBasicInfo"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Capital         : London\nLargest City  : London\nNational Language : English\nTotal Area    : 242,495 km2\nCurrency       : GBP"
+            android:text="@string/capital_london_nlargest_city_london_nnational_language_english_ntotal_area_242_495_km2_ncurrency_gbp"
             android:textSize="15sp"
             android:textStyle="bold"
             android:layout_marginTop="12dp"
@@ -38,7 +38,7 @@
             android:textSize="14sp"
             android:textColor="#000000"
             android:lineSpacingExtra="4dp"
-            android:text="The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376 km²). Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea, and the Irish Sea. The UK maintains sovereignty over the British Overseas Territories..."
+            android:text="@string/the_united_kingdom_of_great_britain_and_northern_ireland_commonly_known_as_the_united_kingdom_uk_or_britain_is_a_country_in_northwestern_europe_off_the_coast_of_the_continental_mainland_it_comprises_england_scotland_wales_and_northern_ireland_the_uk_includes_the_island_of_great_britain_the_north_eastern_part_of_the_island_of_ireland_and_most_of_the_smaller_islands_within_the_british_isles_covering_94_354_square_miles_244_376_km_northern_ireland_shares_a_land_border_with_the_republic_of_ireland_otherwise_the_united_kingdom_is_surrounded_by_the_atlantic_ocean_the_north_sea_the_english_channel_the_celtic_sea_and_the_irish_sea_the_uk_maintains_sovereignty_over_the_british_overseas_territories"
             app:layout_constraintTop_toBottomOf="@id/tvUKBasicInfo"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />

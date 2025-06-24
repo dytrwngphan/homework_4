@@ -21,7 +21,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Son Heung-min is a South Korean professional footballer who plays as a forward. He is known for his speed, finishing, and work ethic. Son is one of Asia's most successful footballers and currently plays for Tottenham Hotspur in the English Premier League."
+        android:text="@string/son_heung_min_is_a_south_korean_professional_footballer_who_plays_as_a_forward_he_is_known_for_his_speed_finishing_and_work_ethic_son_is_one_of_asia_s_most_successful_footballers_and_currently_plays_for_tottenham_hotspur_in_the_english_premier_league"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
         app:layout_constraintTop_toBottomOf="@id/imgLeader"

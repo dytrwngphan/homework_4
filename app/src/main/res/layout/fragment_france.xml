@@ -23,7 +23,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
-        android:text="Capital: Paris\nLargest City: Paris\nNational Language: French\nTotal Area: 643,801 km²\nCurrency: Euro"
+        android:text="@string/capital_paris_nlargest_city_paris_nnational_language_french_ntotal_area_643_801_km_ncurrency_euro"
         android:textStyle="bold"
         android:textSize="15sp"
         app:layout_constraintTop_toBottomOf="@id/imgFrance"
@@ -37,7 +37,7 @@
         android:layout_marginTop="16dp"
         android:textSize="14sp"
         android:lineSpacingExtra="4dp"
-        android:text="France, officially the French Republic, is a country primarily located in Western Europe. It includes overseas regions and territories and is one of the oldest and most influential countries in the world, known for its culture, cuisine, and history..."
+        android:text="@string/france_officially_the_french_republic_is_a_country_primarily_located_in_western_europe_it_includes_overseas_regions_and_territories_and_is_one_of_the_oldest_and_most_influential_countries_in_the_world_known_for_its_culture_cuisine_and_history"
         app:layout_constraintTop_toBottomOf="@id/tvFranceInfo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

@@ -21,7 +21,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Cristiano Ronaldo is a Portuguese professional footballer who plays as a forward. Widely regarded as one of the greatest football players of all time, Ronaldo has won numerous accolades including multiple Ballon d'Or awards and Champions League titles. He has played for clubs such as Manchester United, Real Madrid, and Juventus."
+        android:text="@string/cristiano_ronaldo_is_a_portuguese_professional_footballer_who_plays_as_a_forward_widely_regarded_as_one_of_the_greatest_football_players_of_all_time_ronaldo_has_won_numerous_accolades_including_multiple_ballon_d_or_awards_and_champions_league_titles_he_has_played_for_clubs_such_as_manchester_united_real_madrid_and_juventus"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
         app:layout_constraintTop_toBottomOf="@id/imgLeader"

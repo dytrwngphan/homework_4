@@ -21,7 +21,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Lionel Messi is an Argentine professional footballer who plays as a forward. He is often considered the best player in the world and one of the greatest players of all time. Messi has won a record number of Ballon d'Or awards and spent the majority of his career at FC Barcelona."
+        android:text="@string/lionel_messi_is_an_argentine_professional_footballer_who_plays_as_a_forward_he_is_often_considered_the_best_player_in_the_world_and_one_of_the_greatest_players_of_all_time_messi_has_won_a_record_number_of_ballon_d_or_awards_and_spent_the_majority_of_his_career_at_fc_barcelona"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
         app:layout_constraintTop_toBottomOf="@id/imgLeader"

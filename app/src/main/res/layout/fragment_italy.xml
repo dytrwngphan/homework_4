@@ -24,7 +24,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
-        android:text="Capital: Rome\nLargest City: Rome\nNational Language: Italian\nTotal Area: 301,340 km²\nCurrency: Euro"
+        android:text="@string/capital_rome_nlargest_city_rome_nnational_language_italian_ntotal_area_301_340_km_ncurrency_euro"
         android:textStyle="bold"
         android:textSize="15sp"
         app:layout_constraintTop_toBottomOf="@id/imgItaly"
@@ -38,7 +38,7 @@
         android:layout_marginTop="16dp"
         android:textSize="14sp"
         android:lineSpacingExtra="4dp"
-        android:text="Italy is a country located in Southern Europe. It is known for its long Mediterranean coastline, rich history, and contributions to art, architecture, and culture. Its capital, Rome, is home to the Vatican as well as landmark art and ruins..."
+        android:text="@string/italy_is_a_country_located_in_southern_europe_it_is_known_for_its_long_mediterranean_coastline_rich_history_and_contributions_to_art_architecture_and_culture_its_capital_rome_is_home_to_the_vatican_as_well_as_landmark_art_and_ruins"
         app:layout_constraintTop_toBottomOf="@id/tvItalyInfo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

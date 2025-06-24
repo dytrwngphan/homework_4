@@ -21,7 +21,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex of Egypt. It is the only one of the Seven Wonders of the Ancient World still in existence. Built as a tomb for the Egyptian Pharaoh Khufu, it is an extraordinary feat of engineering and architecture."
+        android:text="@string/the_great_pyramid_of_giza_is_the_oldest_and_largest_of_the_three_pyramids_in_the_giza_pyramid_complex_of_egypt_it_is_the_only_one_of_the_seven_wonders_of_the_ancient_world_still_in_existence_built_as_a_tomb_for_the_egyptian_pharaoh_khufu_it_is_an_extraordinary_feat_of_engineering_and_architecture"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
         app:layout_constraintTop_toBottomOf="@id/imgWonderGiza"

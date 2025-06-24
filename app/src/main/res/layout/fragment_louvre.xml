@@ -23,7 +23,7 @@
         android:layout_marginTop="16dp"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
-        android:text="The Louvre Museum in Paris, France, is the world's largest art museum and a historic monument. It is home to thousands of works of art, including the Mona Lisa, and attracts millions of visitors each year."
+        android:text="@string/the_louvre_museum_in_paris_france_is_the_world_s_largest_art_museum_and_a_historic_monument_it_is_home_to_thousands_of_works_of_art_including_the_mona_lisa_and_attracts_millions_of_visitors_each_year"
         app:layout_constraintTop_toBottomOf="@id/imgMuseum"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

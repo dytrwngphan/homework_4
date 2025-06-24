@@ -23,7 +23,7 @@
         android:layout_marginTop="16dp"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
-        android:text="The Metropolitan Museum of Art in New York City is one of the largest and most prestigious museums in the world. It contains over two million works, ranging from classical antiquity to modern art."
+        android:text="@string/the_metropolitan_museum_of_art_in_new_york_city_is_one_of_the_largest_and_most_prestigious_museums_in_the_world_it_contains_over_two_million_works_ranging_from_classical_antiquity_to_modern_art"
         app:layout_constraintTop_toBottomOf="@id/imgMuseum"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />

@@ -12,7 +12,7 @@
         android:id="@+id/tvTitle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="The Information Book App"
+        android:text="@string/the_information_book_app"
         android:textColor="#FFFFFF"
         android:textSize="22sp"
         android:gravity="center"
@@ -45,13 +45,13 @@
             <ImageView
                 android:layout_width="154dp"
                 android:layout_height="90dp"
-                android:contentDescription="Countries"
+                android:contentDescription="@string/countries"
                 android:src="@drawable/country" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Countries"
+                android:text="@string/country"
                 android:textSize="15sp"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
@@ -80,13 +80,13 @@
             <ImageView
                 android:layout_width="155dp"
                 android:layout_height="90dp"
-                android:contentDescription="Leaders"
+                android:contentDescription="@string/leaders"
                 android:src="@drawable/leader" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Leaders"
+                android:text="@string/leader"
                 android:textSize="15sp"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
@@ -115,13 +115,13 @@
             <ImageView
                 android:layout_width="156dp"
                 android:layout_height="90dp"
-                android:contentDescription="Museums"
+                android:contentDescription="@string/museums"
                 android:src="@drawable/museum" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Museums"
+                android:text="@string/museum"
                 android:textSize="15sp"
                 android:layout_marginTop="8dp" />
         </LinearLayout>
@@ -150,13 +150,13 @@
             <ImageView
                 android:layout_width="159dp"
                 android:layout_height="90dp"
-                android:contentDescription="Wonders"
+                android:contentDescription="@string/wonders"
                 android:src="@drawable/wonder_of_world" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="7 Wonders"
+                android:text="@string/_7_wonders"
                 android:textSize="15sp"
                 android:layout_marginTop="8dp" />
         </LinearLayout>

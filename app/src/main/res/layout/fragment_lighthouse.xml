@@ -21,7 +21,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="The Lighthouse of Alexandria, also known as the Pharos of Alexandria, was one of the Seven Wonders of the Ancient World. Built by the Ptolemaic Kingdom between 280 and 247 BC on the island of Pharos, it helped guide sailors safely into the busy harbor of Alexandria, Egypt."
+        android:text="@string/the_lighthouse_of_alexandria_also_known_as_the_pharos_of_alexandria_was_one_of_the_seven_wonders_of_the_ancient_world_built_by_the_ptolemaic_kingdom_between_280_and_247_bc_on_the_island_of_pharos_it_helped_guide_sailors_safely_into_the_busy_harbor_of_alexandria_egypt"
         android:textSize="16sp"
         android:lineSpacingExtra="4dp"
         app:layout_constraintTop_toBottomOf="@id/imgWonderLighthouse"
